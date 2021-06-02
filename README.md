@@ -1,6 +1,6 @@
-# Quantum_Computing_Workshop_Denmark2021
+# Workshop on Basics of Quantum Computing 2021
 
-Workshop on Basics of Quantum Computing 
+ 
 
 Purpose: Understand the fundamentals of a Quantum Computer and its framework. Hands-on example on a real Quantum Computer
 Prerequisite: Basics of programming and linear algebra. No initial knowledge of quantum physics and quantum information theory is required (will be briefly covered during workshop).
