@@ -8,6 +8,8 @@ from matplotlib import cm
 
 # source: https://towardsdatascience.com/visualizing-protein-networks-in-python-58a9b51be9d5
 
+# The list of proteins was selected from a larger set of human proteins related to serotonin. One thing to note is the &species=9606 optional parameter. 9606 is the species number for humans. 
+
 
 protein_list = ['TPH1','COMT','SLC18A2','HTR1B','HTR2C','HTR2A','MAOA',
             'TPH2','HTR1A','HTR7','SLC6A4','GABBR2','POMC','GNAI3',
