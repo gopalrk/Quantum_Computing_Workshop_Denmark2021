@@ -12,7 +12,7 @@ Agenda:
 	Concept of Quantum Supremacy, Quantum Advantage, Quantum Volume, limitation of classical computation
 	Working with Quantum Circuits, Quantum Algorithms, and Circuit simulators
 	Quantum Machine Learning: Concept and its advantage over classical machine learning
-	Installing IBM’s Qiskit and Xanadu’s Pennylane python library on Anaconda or NN DataLab. Accessing D-wave’s and IBM’s APIs to work on real quantum hardware
+	Installing IBM’s Qiskit and Xanadu’s Pennylane python library on Anaconda. Accessing D-wave’s and IBM’s APIs to work on real quantum hardware
 	Demo on Quantum Machine Learning and Combinatorial Optimisation examples 
 
 Duration: 1½ Hours
@@ -21,4 +21,10 @@ Date: 2nd June 2021,  2.00-3.30 PM
 
 Format : Virtual
 
-Further info/update:  Join “Quantum Computing” Teams channel here
+Sincerely,
+Gopal Karemore, PhD
+Principal Data Scientist
+Advanced Analytics
+GPKA@novonordisk.com
+Novo Nordisk A/S, Denmark
+
